@@ -1,0 +1,8 @@
+Cargo.lock
+target
+
+libhewwo.a
+libhewwo.so
+
+dynamics
+statics
